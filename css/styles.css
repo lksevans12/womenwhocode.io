@@ -1,0 +1,20 @@
+img{
+  border: 2px solid black;
+}
+
+h1 {
+  color: red;
+}
+
+a{
+  color: magenta;
+}
+
+li{
+  list-style-type:square;
+}
+
+body{
+  background-color: gray;
+
+}
